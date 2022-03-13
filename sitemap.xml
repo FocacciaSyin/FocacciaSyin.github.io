@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/2021/03/hello-world/</loc>
+    <loc>https://focacciasyin.github.io/FocaccisSyin.github.io/2021/03/hello-world/</loc>
     <lastmod>2021-03-21T21:46:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://focacciasyin.github.io/FocaccisSyin.github.io/</loc>
     <lastmod>2021-03-21T21:46:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://focacciasyin.github.io/FocaccisSyin.github.io/posts/</loc>
     <lastmod>2021-03-21T21:46:28+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://focacciasyin.github.io/FocaccisSyin.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://focacciasyin.github.io/FocaccisSyin.github.io/tags/</loc>
   </url>
 </urlset>
