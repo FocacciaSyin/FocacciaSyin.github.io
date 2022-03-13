@@ -124,6 +124,7 @@
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           Hello world 我在2021-03-21建立了第一篇文章
+/// &lt;summary&gt;  /// 取得所有台股名稱列表  /// &lt;/summary&gt;  /// &lt;returns&gt;&lt;/returns&gt;  public async Task&lt;CategoryViewModel&gt; GetTaiwanStockInfos()  {   using (var httpClientHandler = new HttpClientHandler { CookieContainer = _cookieContainer })  {  var _httpClient = new HttpClient(httpClientHandler);   Uri uri = new Uri($&#34;{AppSettingsConstants.WebAPIUrl}api/Category/StockInfos&#34;);   HttpResponseMessage response = await _httpClient.GetAsync(uri).ConfigureAwait(false);   if (response.IsSuccessStatusCode)  {  string userJson = await response.Content.ReadAsStringAsync();  if (!
         </div>
           <a href="/2021/03/hello-world/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         

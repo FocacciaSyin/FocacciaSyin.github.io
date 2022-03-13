@@ -99,6 +99,7 @@
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Hello world 我在2021-03-21建立了第一篇文章
+/// &lt;summary&gt;  /// 取得所有台股名稱列表  /// &lt;/summary&gt;  /// &lt;returns&gt;&lt;/returns&gt;  public async Task&lt;CategoryViewModel&gt; GetTaiwanStockInfos()  {   using (var httpClientHandler = new HttpClientHandler { CookieContainer = _cookieContainer })  {  var _httpClient = new HttpClient(httpClientHandler);   Uri uri = new Uri($&#34;{AppSettingsConstants.WebAPIUrl}api/Category/StockInfos&#34;);   HttpResponseMessage response = await _httpClient.GetAsync(uri).ConfigureAwait(false);   if (response.IsSuccessStatusCode)  {  string userJson = await response.Content.ReadAsStringAsync();  if (!
     </div>
   </div>
 </div>

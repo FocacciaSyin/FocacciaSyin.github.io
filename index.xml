@@ -13,7 +13,8 @@
       <pubDate>Sun, 21 Mar 2021 21:46:28 +0800</pubDate>
       
       <guid>https://focacciasyin.github.io/2021/03/hello-world/</guid>
-      <description>Hello world 我在2021-03-21建立了第一篇文章</description>
+      <description>Hello world 我在2021-03-21建立了第一篇文章
+/// &amp;lt;summary&amp;gt;  /// 取得所有台股名稱列表  /// &amp;lt;/summary&amp;gt;  /// &amp;lt;returns&amp;gt;&amp;lt;/returns&amp;gt;  public async Task&amp;lt;CategoryViewModel&amp;gt; GetTaiwanStockInfos()  {   using (var httpClientHandler = new HttpClientHandler { CookieContainer = _cookieContainer })  {  var _httpClient = new HttpClient(httpClientHandler);   Uri uri = new Uri($&amp;#34;{AppSettingsConstants.WebAPIUrl}api/Category/StockInfos&amp;#34;);   HttpResponseMessage response = await _httpClient.GetAsync(uri).ConfigureAwait(false);   if (response.IsSuccessStatusCode)  {  string userJson = await response.Content.ReadAsStringAsync();  if (!</description>
     </item>
     
   </channel>
