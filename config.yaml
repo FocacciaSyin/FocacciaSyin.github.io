@@ -18,6 +18,10 @@ languages:
         languagedirection: rtl
         title: موقع تجريبي
         weight: 3
+    zh-tw:
+        languageName: 中文
+        title: 筆記筆記
+        weight: 4
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -27,7 +31,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-tw
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -42,10 +46,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/faviconHugo.png
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -54,11 +58,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 預計會拿來記錄筆記.NET相關的大小事，實作一個簡單SEO試試看
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/logo.jpg
 
     article:
         math: false
@@ -197,13 +201,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/FocacciaSyin
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/simoncat524
           params:
               icon: brand-twitter
 
