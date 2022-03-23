@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>tutorial on 筆記筆記</title>
-        <link>https://example.com/tags/tutorial/</link>
+        <link>https://focacciasyin.github.io/tags/tutorial/</link>
         <description>Recent content in tutorial on 筆記筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://focacciasyin.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>For BenBen Basic Tutorial</title>
-        <link>https://example.com/p/for-benben-basic-tutorial/</link>
+        <link>https://focacciasyin.github.io/p/for-benben-basic-tutorial/</link>
         <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/for-benben-basic-tutorial/</guid>
-        <description>&lt;img src="https://example.com/p/for-benben-basic-tutorial/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post For BenBen Basic Tutorial" /&gt;&lt;h2 id=&#34;開始使用&#34;&gt;開始使用&lt;/h2&gt;
+        <guid>https://focacciasyin.github.io/p/for-benben-basic-tutorial/</guid>
+        <description>&lt;img src="https://focacciasyin.github.io/p/for-benben-basic-tutorial/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post For BenBen Basic Tutorial" /&gt;&lt;h2 id=&#34;開始使用&#34;&gt;開始使用&lt;/h2&gt;
 &lt;h3 id=&#34;基本操作&#34;&gt;基本操作&lt;/h3&gt;
 &lt;p&gt;妳會用到的幾個語法&lt;/p&gt;
 &lt;ol&gt;
