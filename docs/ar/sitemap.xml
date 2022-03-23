@@ -9,7 +9,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://focacciasyin.github.io/en/categories/"
+                href="https://focacciasyin.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,7 +19,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://focacciasyin.github.io/categories/"
+                href="https://focacciasyin.github.io/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,7 +33,7 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
+                hreflang="en"
                 href="https://focacciasyin.github.io/post/"
                 />
     <xhtml:link
@@ -49,7 +49,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://focacciasyin.github.io/en/tags/"
+                href="https://focacciasyin.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://focacciasyin.github.io/tags/"
+                href="https://focacciasyin.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,7 +88,7 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
+                hreflang="en"
                 href="https://focacciasyin.github.io/p/placeholder-text/"
                 />
     <xhtml:link
@@ -104,7 +104,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://focacciasyin.github.io/en/"
+                href="https://focacciasyin.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -114,7 +114,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://focacciasyin.github.io/"
+                href="https://focacciasyin.github.io/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
