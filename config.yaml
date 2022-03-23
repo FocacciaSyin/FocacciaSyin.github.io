@@ -1,5 +1,5 @@
 baseurl: https://focacciasyin.github.io/
-languageCode: en-us
+languageCode: zh-tw
 theme: hugo-theme-stack
 paginate: 5
 title: Example Site
@@ -239,3 +239,8 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+        
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5

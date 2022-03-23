@@ -3,6 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://focacciasyin.github.io/zh-cn/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,6 +27,8 @@
                 />
   </url><url>
     <loc>https://focacciasyin.github.io/zh-cn/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,6 +51,8 @@
                 />
   </url><url>
     <loc>https://focacciasyin.github.io/zh-cn/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
