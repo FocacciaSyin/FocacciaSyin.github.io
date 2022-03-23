@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Example Site</title>
+        <title>Categories on 筆記筆記</title>
         <link>https://focacciasyin.github.io/categories/</link>
-        <description>Recent content in Categories on Example Site</description>
+        <description>Recent content in Categories on 筆記筆記</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://focacciasyin.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -47,11 +47,19 @@
         <description></description>
         </item>
         <item>
-        <title>Test with whitespaces</title>
-        <link>https://focacciasyin.github.io/categories/test-with-whitespaces/</link>
+        <title>تجربة</title>
+        <link>https://focacciasyin.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://focacciasyin.github.io/categories/test-with-whitespaces/</guid>
+        <guid>https://focacciasyin.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>تجربة مع فراغات</title>
+        <link>https://focacciasyin.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://focacciasyin.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
         <description></description>
         </item>
         
